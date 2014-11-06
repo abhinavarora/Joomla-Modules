@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+	<name>Supreme Sudoku</name>
+	<author>Abhinav Arora</author>
+	<creationDate>2010 July 05</creationDate>
+	<copyright>Copyright © 2010 Abhinav Arora</copyright>
+	<license>GNU/GPL http://www.gnu.org/copyleft/gpl.html</license>
+	<authorEmail>abhinav.arora@nsitonline.in</authorEmail>
+	<authorUrl>http://nsitonline.in</authorUrl>
+	<version>1.0</version>
+	<description>Supreme Sudoku is an Online Sudoku Application which allows users of your websites to play Sudoku online on your website.</description>
+	<files>
+		<filename module="mod_supremesudoku">mod_supremesudoku.php</filename>
+		<filename>base.css</filename>
+		<filename>paper.css</filename>
+		<filename>rainbow.css</filename>
+		<filename>print.css</filename>
+		<filename>classic.css</filename>
+		<filename>sudoku.js</filename>
+	</files>
+</install>
