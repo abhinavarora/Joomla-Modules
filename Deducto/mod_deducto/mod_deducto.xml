@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+	<name>Deducto</name>
+	<author>Abhinav Arora</author>
+	<creationDate>2010 Jun 18</creationDate>
+	<copyright>Copyright © 2010 Software for Education Entertainment and Training Activities</copyright>
+	<license>GNU/GPL http://www.gnu.org/copyleft/gpl.html</license>
+	<authorEmail>abhinav@seeta.in</authorEmail>
+	<authorUrl>http://seeta.in</authorUrl>
+	<version>1.0</version>
+	<description>Deducto is a learning activity aimed towards improving childrens’ skills to deducing logic through pattern recognition.
+	To know more about Deducto,visit our official Wiki Page: http://seeta.in/wiki/index.php?title=Deducto</description>
+	<files>
+		<filename module="mod_deducto">mod_deducto.php</filename>
+	</files>
+</install>
